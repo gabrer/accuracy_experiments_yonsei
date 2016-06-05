@@ -1,0 +1,17 @@
+
+
+Utente: 1 - Lunghezza prefisso: 1
+Generlizzation rate and positive error Blustar:
+-
+
+
+Utente: 1 - Lunghezza prefisso: 2
+Generlizzation rate and positive error Blustar:
+-
+
+
+Utente: 1 - Lunghezza prefisso: 3
+Generlizzation rate and positive error Blustar:
+-
+-
+0.846154

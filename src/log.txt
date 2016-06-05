@@ -1,0 +1,754 @@
+utente: 1
+DB path is: /home/gabriele/Dropbox/workspace_github_cpp/yonsei.db
+User: 1
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
+Esperimento 0.01
+///////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
+----> Number of run for CROSS VALIDATION: 5
+"Experiments" folder checked
+Current experiment directory is: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/
+Selected algorithms are: 
+EDSM
+BlueStar
+Alpha of Blue*: 0.01
+Database path: /home/gabriele/Dropbox/workspace_github_cpp/yonsei.db
+Lunghezza minima dei prefissi: 1
+
+
+
+///////////////////////////////////////////////////////
+---------- PREFISSI DI LUNGHEZZA 1, utente 1 -----------
+///////////////////////////////////////////////////////
+
+1 prefixes of length 1, limit to ALL
+
+
+***************************************************
+------> Current Prefix: w - Utente 1 <--------
+***************************************************
+Positive: 19
+Size of dataset too small 
+ >-------------------------------< 
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_EDSM.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_EDSM.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_EDSM.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_EDSM.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_FINAL_RESULTS_BLUESTAR.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_MINIMAL_FINAL_RESULTS_EDSM.txt
+
+
+
+///////////////////////////////////////////////////////
+---------- PREFISSI DI LUNGHEZZA 2, utente 1 -----------
+///////////////////////////////////////////////////////
+
+1 prefixes of length 2, limit to ALL
+
+
+***************************************************
+------> Current Prefix: wy - Utente 1 <--------
+***************************************************
+Positive: 25
+ - Scrivo su file i samples -
+Prefisso: wy
+Numero sample positivi: 25
+Numero sample negativi: 164
+Tot previste pos: 25 | train: 20 - test: 5
+Train finale: 20 - testset finale: 5
+Train finale: 20 - testset finale: 5
+Train finale: 20 - testset finale: 5
+Train finale: 20 - testset finale: 5
+Train finale: 20 - testset finale: 5
+Scritture su file dei samples...
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 74
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 4 samples positivi e 33 negativi
+Scrittura su file del test set
+Su file sono presenti 2 test samples
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 76
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 3 samples positivi e 34 negativi
+Scrittura su file del test set
+Su file sono presenti 3 test samples
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 74
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 4 samples positivi e 33 negativi
+Scrittura su file del test set
+Su file sono presenti 1 test samples
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 74
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 3 samples positivi e 33 negativi
+Scrittura su file del test set
+Su file sono presenti 2 test samples
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 74
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 4 samples positivi e 33 negativi
+Scrittura su file del test set
+Su file sono presenti 1 test samples
+
+******** EDSM wy  ********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/2/wy-1-samples-CV0.txt
+4 positivi
+33 negativi
+Costruzione APTA...
+PTA costruito
+ START Edsm inference process...
+**** TEST DI GENERALIZZAZIONE ****
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/2/wy-1-test_samples-CV0.txt
+2 positivi
+Stringhe di test lette dal file: 2
+**** End of generalization test ****
+Tasso di generalizzazione di EDSM: 100%
+EDSM  DFA path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/2/wy-DOTedsmALF.dot
+EDSM DFA TXT path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/2/wy-TXTedsmALF.txt
+
+********  BLUESTAR wy-cv: 0 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/2/wy-1-samples-CV0.txt
+4 positivi
+33 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 20 e 74
+ START BlueStar inference process...
+Constraints approximation to Normal Gaussian distr not satisfied
+This inference process is stopped with no DFA; 
+ >---------------------------------------< 
+
+********  BLUESTAR wy-cv: 1 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/2/wy-1-samples-CV1.txt
+3 positivi
+34 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 20 e 76
+ START BlueStar inference process...
+Constraints approximation to Normal Gaussian distr not satisfied
+This inference process is stopped with no DFA; 
+ >---------------------------------------< 
+
+********  BLUESTAR wy-cv: 2 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/2/wy-1-samples-CV2.txt
+4 positivi
+33 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 20 e 74
+ START BlueStar inference process...
+Constraints approximation to Normal Gaussian distr not satisfied
+This inference process is stopped with no DFA; 
+ >---------------------------------------< 
+
+********  BLUESTAR wy-cv: 3 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/2/wy-1-samples-CV3.txt
+3 positivi
+33 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 20 e 74
+ START BlueStar inference process...
+Constraints approximation to Normal Gaussian distr not satisfied
+This inference process is stopped with no DFA; 
+ >---------------------------------------< 
+
+********  BLUESTAR wy-cv: 4 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/2/wy-1-samples-CV4.txt
+4 positivi
+33 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 20 e 74
+ START BlueStar inference process...
+Constraints approximation to Normal Gaussian distr not satisfied
+This inference process is stopped with no DFA; 
+ >---------------------------------------< 
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_EDSM.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_EDSM.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_EDSM.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_EDSM.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_FINAL_RESULTS_BLUESTAR.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_MINIMAL_FINAL_RESULTS_EDSM.txt
+
+
+
+///////////////////////////////////////////////////////
+---------- PREFISSI DI LUNGHEZZA 3, utente 1 -----------
+///////////////////////////////////////////////////////
+
+3 prefixes of length 3, limit to ALL
+
+
+***************************************************
+------> Current Prefix: wy6 - Utente 1 <--------
+***************************************************
+Positive: 2
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wy7 - Utente 1 <--------
+***************************************************
+Positive: 4
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wyd - Utente 1 <--------
+***************************************************
+Positive: 66
+ - Scrivo su file i samples -
+Prefisso: wyd
+Numero sample positivi: 66
+Numero sample negativi: 481
+Tot previste pos: 66 | train: 53 - test: 13
+Train finale: 53 - testset finale: 13
+Train finale: 53 - testset finale: 13
+Train finale: 53 - testset finale: 13
+Train finale: 53 - testset finale: 13
+Train finale: 53 - testset finale: 13
+Scritture su file dei samples...
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 145
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 17 samples positivi e 82 negativi
+Scrittura su file del test set
+Su file sono presenti 8 test samples
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 145
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 17 samples positivi e 82 negativi
+Scrittura su file del test set
+Su file sono presenti 8 test samples
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 152
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 16 samples positivi e 83 negativi
+Scrittura su file del test set
+Su file sono presenti 10 test samples
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 143
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 20 samples positivi e 81 negativi
+Scrittura su file del test set
+Su file sono presenti 7 test samples
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 143
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 19 samples positivi e 81 negativi
+Scrittura su file del test set
+Su file sono presenti 5 test samples
+
+******** EDSM wyd  ********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-1-samples-CV0.txt
+17 positivi
+82 negativi
+Costruzione APTA...
+PTA costruito
+ START Edsm inference process...
+**** TEST DI GENERALIZZAZIONE ****
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-1-test_samples-CV0.txt
+8 positivi
+Stringhe di test lette dal file: 8
+**** End of generalization test ****
+Tasso di generalizzazione di EDSM: 76.9231%
+EDSM  DFA path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-DOTedsmALF.dot
+EDSM DFA TXT path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-TXTedsmALF.txt
+
+********  BLUESTAR wyd-cv: 0 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-1-samples-CV0.txt
+17 positivi
+82 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 53 e 145
+ START BlueStar inference process...
+FINALE
+TP: 53 TN: 40 FP: 105 FN: 0 F-measure: 0.50237
+Precision:  0.335443; Recall: 1
+Correttamente identificate di 53 un totale di: 53
+Correttamente identificate di 145 un totale di: 40
+**** TEST DI GENERALIZZAZIONE ****
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-1-test_samples-CV0.txt
+8 positivi
+Stringhe di test lette dal file: 8
+**** End of generalization test ****
+Tasso di generalizzazione di BLUESTAR: 84.6154%
+Error-rate sulle stringhe positive: 0.530303
+BLUSTAR DFA path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-DOTbluestarALF-CV0.dot
+BLUSTAR DFA TXT path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-CV0-TXTbluestarALF.txt
+
+********  BLUESTAR wyd-cv: 1 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-1-samples-CV1.txt
+17 positivi
+82 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 53 e 145
+ START BlueStar inference process...
+FINALE
+TP: 53 TN: 0 FP: 145 FN: 0 F-measure: 0.422311
+Precision:  0.267677; Recall: 1
+Correttamente identificate di 53 un totale di: 53
+Correttamente identificate di 145 un totale di: 0
+**** TEST DI GENERALIZZAZIONE ****
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-1-test_samples-CV1.txt
+8 positivi
+Stringhe di test lette dal file: 8
+**** End of generalization test ****
+Tasso di generalizzazione di BLUESTAR: 100%
+Error-rate sulle stringhe positive: 0.732323
+BLUSTAR DFA path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-DOTbluestarALF-CV1.dot
+BLUSTAR DFA TXT path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-CV1-TXTbluestarALF.txt
+
+********  BLUESTAR wyd-cv: 2 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-1-samples-CV2.txt
+16 positivi
+83 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 53 e 152
+ START BlueStar inference process...
+FINALE
+TP: 53 TN: 54 FP: 98 FN: 0 F-measure: 0.519608
+Precision:  0.350993; Recall: 1
+Correttamente identificate di 53 un totale di: 53
+Correttamente identificate di 152 un totale di: 54
+**** TEST DI GENERALIZZAZIONE ****
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-1-test_samples-CV2.txt
+10 positivi
+Stringhe di test lette dal file: 10
+**** End of generalization test ****
+Tasso di generalizzazione di BLUESTAR: 84.6154%
+Error-rate sulle stringhe positive: 0.478049
+BLUSTAR DFA path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-DOTbluestarALF-CV2.dot
+BLUSTAR DFA TXT path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-CV2-TXTbluestarALF.txt
+
+********  BLUESTAR wyd-cv: 3 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-1-samples-CV3.txt
+20 positivi
+81 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 53 e 143
+ START BlueStar inference process...
+FINALE
+TP: 53 TN: 50 FP: 93 FN: 0 F-measure: 0.532663
+Precision:  0.363014; Recall: 1
+Correttamente identificate di 53 un totale di: 53
+Correttamente identificate di 143 un totale di: 50
+**** TEST DI GENERALIZZAZIONE ****
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-1-test_samples-CV3.txt
+7 positivi
+Stringhe di test lette dal file: 7
+**** End of generalization test ****
+Tasso di generalizzazione di BLUESTAR: 100%
+Error-rate sulle stringhe positive: 0.47449
+BLUSTAR DFA path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-DOTbluestarALF-CV3.dot
+BLUSTAR DFA TXT path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-CV3-TXTbluestarALF.txt
+
+********  BLUESTAR wyd-cv: 4 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-1-samples-CV4.txt
+19 positivi
+81 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 53 e 143
+ START BlueStar inference process...
+FINALE
+TP: 53 TN: 50 FP: 93 FN: 0 F-measure: 0.532663
+Precision:  0.363014; Recall: 1
+Correttamente identificate di 53 un totale di: 53
+Correttamente identificate di 143 un totale di: 50
+**** TEST DI GENERALIZZAZIONE ****
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-1-test_samples-CV4.txt
+5 positivi
+Stringhe di test lette dal file: 5
+**** End of generalization test ****
+Tasso di generalizzazione di BLUESTAR: 100%
+Error-rate sulle stringhe positive: 0.47449
+BLUSTAR DFA path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-DOTbluestarALF-CV4.dot
+BLUSTAR DFA TXT path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/3/wyd-CV4-TXTbluestarALF.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_EDSM.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_EDSM.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_EDSM.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_EDSM.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt0.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt1.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt2.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt3.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_GENERAL_BLUESTAR4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_NUM_STATES_BLUESTAR.txt4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ERR_RATE_TRAIN_BLUESTAR.txt4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_ACTUAL_MERGES_BLUESTAR.txt4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_HEURISTIC_EVALUATIONS_BLUESTAR.txt4.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_FINAL_RESULTS_BLUESTAR.txt
+Statistics file: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/STAT_MINIMAL_FINAL_RESULTS_EDSM.txt
+
+
+
+///////////////////////////////////////////////////////
+---------- PREFISSI DI LUNGHEZZA 4, utente 1 -----------
+///////////////////////////////////////////////////////
+
+14 prefixes of length 4, limit to ALL
+
+
+***************************************************
+------> Current Prefix: wy6w - Utente 1 <--------
+***************************************************
+Positive: 2
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wy6x - Utente 1 <--------
+***************************************************
+Positive: 1
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wy7e - Utente 1 <--------
+***************************************************
+Positive: 1
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wy7g - Utente 1 <--------
+***************************************************
+Positive: 5
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wyd6 - Utente 1 <--------
+***************************************************
+Positive: 1
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wyd7 - Utente 1 <--------
+***************************************************
+Positive: 1
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wyd8 - Utente 1 <--------
+***************************************************
+Positive: 1
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wydd - Utente 1 <--------
+***************************************************
+Positive: 1
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wyde - Utente 1 <--------
+***************************************************
+Positive: 1
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wydh - Utente 1 <--------
+***************************************************
+Positive: 5
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wydj - Utente 1 <--------
+***************************************************
+Positive: 9
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wydk - Utente 1 <--------
+***************************************************
+Positive: 4
+Size of dataset too small 
+ >-------------------------------< 
+
+
+
+***************************************************
+------> Current Prefix: wydm - Utente 1 <--------
+***************************************************
+Positive: 244
+ - Scrivo su file i samples -
+Prefisso: wydm
+Numero sample positivi: 244
+Numero sample negativi: 1325
+Tot previste pos: 244 | train: 196 - test: 48
+Train finale: 196 - testset finale: 48
+Train finale: 196 - testset finale: 48
+Train finale: 196 - testset finale: 48
+Train finale: 196 - testset finale: 48
+Train finale: 196 - testset finale: 48
+Scritture su file dei samples...
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 944
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 109 samples positivi e 362 negativi
+Scrittura su file del test set
+Su file sono presenti 39 test samples
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 953
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 111 samples positivi e 364 negativi
+Scrittura su file del test set
+Su file sono presenti 39 test samples
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 937
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 110 samples positivi e 362 negativi
+Scrittura su file del test set
+Su file sono presenti 43 test samples
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 932
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 114 samples positivi e 361 negativi
+Scrittura su file del test set
+Su file sono presenti 39 test samples
+Dopo il aver tolto ripetizioni intrastringhe e tolto samples comuni tra pos e neg, i neg sono: 932
+Ci sono stati doppioni tra pos e neg
+Scrittura su file del training set (positivi e negativi)
+Su file sono presenti 116 samples positivi e 364 negativi
+Scrittura su file del test set
+Su file sono presenti 39 test samples
+
+******** EDSM wydm  ********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-1-samples-CV0.txt
+109 positivi
+362 negativi
+Costruzione APTA...
+PTA costruito
+ START Edsm inference process...
+**** TEST DI GENERALIZZAZIONE ****
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-1-test_samples-CV0.txt
+39 positivi
+Stringhe di test lette dal file: 39
+**** End of generalization test ****
+Tasso di generalizzazione di EDSM: 77.0833%
+EDSM  DFA path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-DOTedsmALF.dot
+EDSM DFA TXT path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-TXTedsmALF.txt
+
+********  BLUESTAR wydm-cv: 0 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-1-samples-CV0.txt
+109 positivi
+362 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 196 e 944
+ START BlueStar inference process...
+FINALE
+TP: 196 TN: 115 FP: 829 FN: 0 F-measure: 0.321048
+Precision:  0.19122; Recall: 1
+Correttamente identificate di 196 un totale di: 196
+Correttamente identificate di 944 un totale di: 115
+**** TEST DI GENERALIZZAZIONE ****
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-1-test_samples-CV0.txt
+39 positivi
+Stringhe di test lette dal file: 39
+**** End of generalization test ****
+Tasso di generalizzazione di BLUESTAR: 100%
+Error-rate sulle stringhe positive: 0.727193
+BLUSTAR DFA path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-DOTbluestarALF-CV0.dot
+BLUSTAR DFA TXT path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-CV0-TXTbluestarALF.txt
+
+********  BLUESTAR wydm-cv: 1 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-1-samples-CV1.txt
+111 positivi
+364 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 196 e 953
+ START BlueStar inference process...
+FINALE
+TP: 196 TN: 170 FP: 783 FN: 0 F-measure: 0.333617
+Precision:  0.200204; Recall: 1
+Correttamente identificate di 196 un totale di: 196
+Correttamente identificate di 953 un totale di: 170
+**** TEST DI GENERALIZZAZIONE ****
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-1-test_samples-CV1.txt
+39 positivi
+Stringhe di test lette dal file: 39
+**** End of generalization test ****
+Tasso di generalizzazione di BLUESTAR: 93.75%
+Error-rate sulle stringhe positive: 0.681462
+BLUSTAR DFA path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-DOTbluestarALF-CV1.dot
+BLUSTAR DFA TXT path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-CV1-TXTbluestarALF.txt
+
+********  BLUESTAR wydm-cv: 2 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-1-samples-CV2.txt
+110 positivi
+362 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 196 e 937
+ START BlueStar inference process...
+FINALE
+TP: 196 TN: 168 FP: 769 FN: 0 F-measure: 0.33764
+Precision:  0.203109; Recall: 1
+Correttamente identificate di 196 un totale di: 196
+Correttamente identificate di 937 un totale di: 168
+**** TEST DI GENERALIZZAZIONE ****
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-1-test_samples-CV2.txt
+43 positivi
+Stringhe di test lette dal file: 43
+**** End of generalization test ****
+Tasso di generalizzazione di BLUESTAR: 95.8333%
+Error-rate sulle stringhe positive: 0.678729
+BLUSTAR DFA path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-DOTbluestarALF-CV2.dot
+BLUSTAR DFA TXT path: /home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-CV2-TXTbluestarALF.txt
+
+********  BLUESTAR wydm-cv: 3 *********
+Reading strings from txt file: 
+/home/gabriele/Dropbox/workspace_github_cpp/accuracy_experiment_yonsei/experiments/user1_EDSM_06_05_16_11_20/4/wydm-1-samples-CV3.txt
+114 positivi
+361 negativi
+Costruzione APTA...
+PTA costruito
+Totale tot_wn_w: 196 e 932
+ START BlueStar inference process...

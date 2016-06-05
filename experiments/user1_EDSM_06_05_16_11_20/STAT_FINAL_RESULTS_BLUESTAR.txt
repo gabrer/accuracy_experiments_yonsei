@@ -1,0 +1,34 @@
+
+
+Utente: 1 - Lunghezza prefisso: 1
+Media e varianza del Cross Validation.
+
+
+Utente: 1 - Lunghezza prefisso: 2
+Media e varianza del Cross Validation.
+
+
+Utente: 1 - Lunghezza prefisso: 3
+Media e varianza del Cross Validation.
+
+MEDIE
+Prefix: wyd
+Num states B: 3.8
+Percentage positive B: 0.938462
+Errore Rate B: 0.537931
+Num actual merges B: 47.6
+Num heuristic evaluations B: 1992
+
+DEV STD
+Num states B: 0.4
+Percentage positive B: 0.0753689
+Errore Rate B: 0.0994806
+Num actual merges B: 3.2619
+Num heuristic evaluations B: 325.054
+
+DEV STD NORM 
+Num states B: 0.105263
+Percentage positive B: 0.0803111
+Errore Rate B: 0.184932
+Num actual merges B: 0.0685273
+Num heuristic evaluations B: 0.16318

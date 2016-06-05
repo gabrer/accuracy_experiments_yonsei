@@ -1,0 +1,45 @@
+32
+$ 0 1 2 3 4 5 6 7 8 9 b c d e f g h j k m n p q r s t u v w x y z 
++ 1 1 3
++ 1 2
++ 1 2 8
++ 1 3 1 3 f 3 6 3 6 3 6 s w r p r w t
++ 1 7 d k d t
++ 1 8
++ 1 8 7
++ 1 8 9 d e
++ 1 8 9 d e d
++ 1 8 9 d e t
++ 1 8 9 d s e
++ 1 8 9 d s t
++ 1 8 d e s d
++ 1 8 d e t
++ 1 8 e t
++ 1 9 e
++ 1 9 e s
++ 1 9 s
++ 1 c f c 9
++ 3 d s
++ 1 d s e 9
++ 1 d t
++ 2 e
++ 1 e 8
++ 1 e d
++ 1 e s
++ 1 e s e d
++ 1 e t e
++ 1 k
++ 1 k t
++ 3 s
++ 1 s 7
++ 1 s d
++ 1 s e
++ 1 s e 8
++ 1 t
++ 1 t 7 d
++ 1 t e d
++ 1 t e d 8
++ 1 t s 8 9 8
++ 1 t s d
++ 1 t s d 8
++ 1 t s e

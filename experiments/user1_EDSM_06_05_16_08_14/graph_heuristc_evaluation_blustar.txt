@@ -1,0 +1,6 @@
+-nan   0   -nan
+-nan   0   -nan
+3 2297.2   590.626   0.257107
+-nan   0   -nan
+-nan   0   -nan
+-nan   0   -nan

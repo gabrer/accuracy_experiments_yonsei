@@ -1,0 +1,8 @@
+
+
+Utente: 1 - Lunghezza prefisso: 1
+Media e varianza del Cross Validation:
+
+
+Utente: 1 - Lunghezza prefisso: 2
+Media e varianza del Cross Validation:

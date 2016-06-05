@@ -1,0 +1,6 @@
+-nan   0   -nan
+636   0   0
+3 5384   0   0
+-nan   0   -nan
+-nan   0   -nan
+-nan   0   -nan

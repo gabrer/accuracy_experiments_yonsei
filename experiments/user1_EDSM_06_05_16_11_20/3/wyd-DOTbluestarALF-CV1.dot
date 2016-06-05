@@ -1,0 +1,22 @@
+digraph BlueStar {
+__start0 [style = invis, shape = none, label = "", width = 0, height = 0];
+
+rankdir=LR;
+size="8,5";
+
+s0 [style="rounded,filled", color="black", fillcolor="white" shape="doublecircle", label="q0"];
+s1 [style="rounded,filled", color="black", fillcolor="white" shape="doublecircle", label="q1"];
+s2 [style="filled", color="black", fillcolor="white" shape="circle", label="q2"];
+subgraph cluster_main { 
+	graph [pad=".75", ranksep="0.15", nodesep="0.15"];
+	 style=invis; 
+	__start0 -> s0 [penwidth=2];
+}
+s0 -> s0 [label="1,2,4,6,7\n8,c,d,e\nf,g,h,k\nn,p,q,r\nv,y"];
+s0 -> s1 [label="3,j,m,t,u\nw,x"];
+s0 -> s2 [label="0,5,9,b,s\nz"];
+s1 -> s0 [label="2,3,6,7,8\nd,e,h,j\nk,m,n,q\ns,t,u,w\ny"];
+s1 -> s2 [label="0,1,4,5,9\nb,c,f,g\np,r,v,x\nz"];
+s2 -> s2 [label="0,1,2,3,4\n5,6,7,8\n9,b,c,d\ne,f,g,h\nj,k,m,n\np,q,r,s\nt,u,v,w\nx,y,z"];
+
+}

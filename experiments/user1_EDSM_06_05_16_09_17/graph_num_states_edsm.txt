@@ -1,0 +1,6 @@
+-nan   0   -nan
+5   0   0
+3 6   0   0
+-nan   0   -nan
+-nan   0   -nan
+-nan   0   -nan

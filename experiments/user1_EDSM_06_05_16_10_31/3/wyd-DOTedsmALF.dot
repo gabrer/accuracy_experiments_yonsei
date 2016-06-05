@@ -1,0 +1,42 @@
+digraph EDSM {
+__start0 [style = invis, shape = none, label = "", width = 0, height = 0];
+
+rankdir=LR;
+size="8,5";
+
+s0 [style="filled", color="black", fillcolor="white" shape="circle", label="q0"];
+s1 [style="filled", color="black", fillcolor="white" shape="circle", label="q1"];
+s2 [style="rounded,filled", color="black", fillcolor="white" shape="doublecircle", label="q2"];
+s3 [style="rounded,filled", color="black", fillcolor="white" shape="doublecircle", label="q3"];
+s4 [style="filled", color="black", fillcolor="white" shape="circle", label="q4"];
+s5 [style="filled", color="black", fillcolor="white" shape="circle", label="q5"];
+subgraph cluster_main { 
+	graph [pad=".75", ranksep="0.15", nodesep="0.15"];
+	 style=invis; 
+	__start0 -> s0 [penwidth=2];
+}
+s0 -> s0 [label="1,2,3,4,6\nc,d,e,f\ng,q,u,v\nw,y"];
+s0 -> s1 [label="7,8,n,r,t\nx"];
+s0 -> s2 [label="h,j,m"];
+s0 -> s3 [label="k"];
+s0 -> s5 [label="0,5,9,b,p\ns,z"];
+s1 -> s0 [label="3,6,7,p,w"];
+s1 -> s1 [label="h,j,k,m,n\nq"];
+s1 -> s5 [label="0,1,2,4,5\n8,9,b,c\nd,e,f,g\nr,s,t,u\nv,x,y,z"];
+s2 -> s0 [label="s,t,w"];
+s2 -> s1 [label="3,6,h,k,n"];
+s2 -> s2 [label="d,e,j,u"];
+s2 -> s3 [label="m,q"];
+s2 -> s4 [label="7"];
+s2 -> s5 [label="0,1,2,4,5\n8,9,b,c\nf,g,p,r\nv,x,y,z"];
+s3 -> s0 [label="6,k,m,q,r"];
+s3 -> s1 [label="j"];
+s3 -> s2 [label="t"];
+s3 -> s4 [label="7"];
+s3 -> s5 [label="0,1,2,3,4\n5,8,9,b\nc,d,e,f\ng,h,n,p\ns,u,v,w\nx,y,z"];
+s4 -> s0 [label="k,m"];
+s4 -> s4 [label="6,7"];
+s4 -> s5 [label="0,1,2,3,4\n5,8,9,b\nc,d,e,f\ng,h,j,n\np,q,r,s\nt,u,v,w\nx,y,z"];
+s5 -> s5 [label="0,1,2,3,4\n5,6,7,8\n9,b,c,d\ne,f,g,h\nj,k,m,n\np,q,r,s\nt,u,v,w\nx,y,z"];
+
+}
